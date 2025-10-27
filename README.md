@@ -9,7 +9,7 @@ Le site affiche pour le moment une page vide. deux fonctionnalité sera dévelop
 
 ## Installation
 
-```bash
+```bash   
 go mod tidy
 go run main.go
 ```
